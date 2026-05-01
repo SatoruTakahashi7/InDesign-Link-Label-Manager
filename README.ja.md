@@ -22,6 +22,7 @@ InDesign の配置リンク元ファイルに Finder ラベルを付与 / 解除
 - 同じ元ファイルは1回だけ処理
 - 埋め込み画像・リンク切れは安全にスキップ
 - ドキュメント保存先フォルダ配下のみ対象
+![preview](screenshots/InDesign_LinkLabelManager-01.png)
 
 ---
 
