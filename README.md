@@ -2,7 +2,7 @@
 
 スクリプト名：InDesign-Link-Label-Manager
 
-動作環境：MacOS X 15.7.5、InDesign2024（v19.5.5）
+動作環境：MacOS 15.7.5、InDesign2024（v19.5.5）
 
 開発環境：Mac Studio (2022)
 
