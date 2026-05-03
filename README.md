@@ -5,6 +5,7 @@
 開発環境：Mac Studio (2022)
 開発言語：AppleScript(ChatGPTによる）
 
+
 InDesign の配置リンク元ファイルに Finder ラベルを付与 / 解除する AppleScript です。
 
 ---
