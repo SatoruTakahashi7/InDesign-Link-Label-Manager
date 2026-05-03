@@ -1,6 +1,6 @@
 # InDesign Link Label Manager
 
-スクリプト名：InDesign-Link-Label-Manager
+スクリプト名：InDesign-LinkLabelManager
 
 動作環境：MacOS 15.7.5、InDesign2024（v19.5.5）
 
