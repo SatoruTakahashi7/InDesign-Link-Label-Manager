@@ -1,4 +1,6 @@
 (*
+	InDesign_LinkLabelManager.scpt	
+	または
     InDesignの配置に色付け.scpt
     Version: 1.0.0
     Updated: 2026-05-01
